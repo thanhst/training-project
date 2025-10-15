@@ -1,0 +1,34 @@
+﻿  Trainning_project.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(53,14): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(53,14): warning C4244:         with
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(53,14): warning C4244:         [
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(53,14): warning C4244:             _Tp=int
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(53,14): warning C4244:         ]
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(54,14): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(54,14): warning C4244:         with
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(54,14): warning C4244:         [
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(54,14): warning C4244:             _Tp=int
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(54,14): warning C4244:         ]
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(56,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,20): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,20): warning C4244:         with
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,20): warning C4244:         [
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,20): warning C4244:             _Tp=int
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,20): warning C4244:         ]
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,14): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,14): warning C4244:         with
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,14): warning C4244:         [
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,14): warning C4244:             _Tp=int
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(81,14): warning C4244:         ]
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,21): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,21): warning C4244:         with
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,21): warning C4244:         [
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,21): warning C4244:             _Tp=int
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,21): warning C4244:         ]
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,14): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,14): warning C4244:         with
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,14): warning C4244:         [
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,14): warning C4244:             _Tp=int
+C:\Users\thanh\source\repos\Trainning_project\Trainning_project\Trainning_project.cpp(82,14): warning C4244:         ]
+  Trainning_project.vcxproj -> C:\Users\thanh\source\repos\Trainning_project\x64\Debug\Trainning_project.exe
