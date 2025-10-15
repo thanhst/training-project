@@ -55,7 +55,7 @@ int main()
 				float dist2 = dx * dx + dy * dy;
 				float totalRadius = topCircles[i].radius + topCircles[j].radius;
 
-				if ((dist2 < bestDistance || dist2/bestDistance>=0.9 && dist2/bestDistance<=1) && (totalRadius>bestTotalRadius||totalRadius/bestTotalRadius>=0.9)) {
+				if ((dist2 < bestDistance || dist2/bestDistance<=1.2) && (totalRadius>bestTotalRadius|| totalRadius/bestTotalRadius>=0.9)) {
 					bestDistance = dist2;
 					bestTotalRadius = totalRadius;
 					c1 = topCircles[i];
